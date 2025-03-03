@@ -19,3 +19,6 @@
 | **Kostenmodell**  | Einmalige Lizenzgebühr oder Wartungskosten | Pay-as-you-go (verbrauchsabhängig) |
 | **Vorteile**  | Effiziente Ressourcennutzung, Mehrere OS auf einer Maschine, Sicherheit durch Isolation | Skalierbar, Zugriff von überall, Geringe Wartungskosten |
 | **Nachteile**  | Hoher Ressourcenverbrauch, Komplexe Verwaltung, Begrenzte Skalierbarkeit | Abhängigkeit vom Internet, Datenschutzrisiken, Laufende Kosten |
+
+
+# docker run 
