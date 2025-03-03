@@ -9,12 +9,13 @@
 | Docker-Container | Laufende Instanz eines Docker-Images                           |
 | Docker-Registry  | Speicher für Docker-Images (z. B. Docker Hub)                  |
 
-## 📌 Unterschiede
+## 📌 Unterschiede mit Vor- und Nachteilen
 
-| **Feature**       | **Virtualisierung** | **Cloud** |
-|-----------------|-----------------|----------|
-| **Ort**         | Lokal auf eigener Hardware | Externes Rechenzentrum |
+| **Kriterium**       | **Virtualisierung** | **Cloud** |
+|--------------------|-----------------|----------|
+| **Definition**    | Erstellen von virtuellen Maschinen auf einer physikalischen Hardware | Bereitstellung von IT-Ressourcen über das Internet |
+| **Ort**          | Lokal auf eigener Hardware | Externes Rechenzentrum |
 | **Flexibilität** | Begrenzte Skalierung | Automatische Skalierung |
-| **Kostenmodell** | Einmalige Lizenzgebühr | Pay-as-you-go |
-
-🚀 **Fazit:** Virtualisierung ist eine Technik, um mehrere Systeme auf einem Server zu betreiben. Cloud ist ein Geschäftsmodell, das IT-Dienste über das Internet bereitstellt.
+| **Kostenmodell**  | Einmalige Lizenzgebühr oder Wartungskosten | Pay-as-you-go (verbrauchsabhängig) |
+| **Vorteile**  | Effiziente Ressourcennutzung, Mehrere OS auf einer Maschine, Sicherheit durch Isolation | Skalierbar, Zugriff von überall, Geringe Wartungskosten |
+| **Nachteile**  | Hoher Ressourcenverbrauch, Komplexe Verwaltung, Begrenzte Skalierbarkeit | Abhängigkeit vom Internet, Datenschutzrisiken, Laufende Kosten |
