@@ -21,4 +21,5 @@
 | **Nachteile**  | Hoher Ressourcenverbrauch, Komplexe Verwaltung, Begrenzte Skalierbarkeit | Abhängigkeit vom Internet, Datenschutzrisiken, Laufende Kosten |
 
 
-# docker run 
+
+
